@@ -1,6 +1,7 @@
 description: "A public journal/blog about FAU's Bathrooms & My Thoughts"
 theme: minima
+url: "https://faubathrooms.com"
 
-# Optional but nice
-author: "B"
-
+header_pages:
+  - about.md
+  - support.md
